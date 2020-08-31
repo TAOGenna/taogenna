@@ -1,6 +1,4 @@
-+++
-page_type = "post" 
-headless = true
-active = true 
-title = "cómo correr esta mrd" 
-+++
+---
+date: 2017-12-01
+title: My first blog post
+---
