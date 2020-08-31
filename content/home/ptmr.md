@@ -8,4 +8,4 @@ title = "funciona la ptmre!"
 subtitle = ""
 +++
 
-Tell me if this is true, men. $1=2$ 
+Tell kajsdkj bk bk dk  kad kaj kd da ad  khk  da hk  me if this is true, men. $1=2$ 
