@@ -9,4 +9,3 @@ subtitle = ""
 +++
 
 Tell me if this is true, men. $1=2$ 
-[my cv]{{< ref "cv/index.md" >}}
