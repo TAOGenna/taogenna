@@ -47,5 +47,8 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
-
+# aquí puedo publicar la ptmre 
+$$
+x=\frac{1}{2}
+$$
 +++
