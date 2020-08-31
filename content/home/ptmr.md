@@ -9,4 +9,4 @@ subtitle = ""
 +++
 
  true, men. $1=2$ 
-[My CV]{{< ref "cv/index.md" >}}
+[My CV]({{< ref "cv/index.md" >}})
