@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Renzo Kenyi Takagui Pérez 
+title: Kenyi Takagui
 
 # Username (this should match the folder name)
 authors:
@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/Renzo_R_sum.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -63,7 +63,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I'm a undergrad student interested in particle phenomenology, theoretical physics and competitive programming. Currently, I'm a year away from finishing the universoty at PUCP.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was stil in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.
