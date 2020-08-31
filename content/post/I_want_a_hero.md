@@ -13,5 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-
-I wanna say that $x=1$ . That's all thanks.
