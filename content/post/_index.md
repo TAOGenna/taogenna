@@ -12,3 +12,6 @@ header:
   caption: ""
   image: ""
 ---
+- [ ] tarea 1
+- [ ] tarea 2
+- [ ] leeer 20 paginas del Schtz 
