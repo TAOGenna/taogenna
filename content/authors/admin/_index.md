@@ -65,4 +65,4 @@ user_groups:
 ---
 I'm a undergrad student interested in particle phenomenology, theoretical physics and competitive programming. Currently, I'm a year away from finishing the universoty at PUCP.
 
-I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was stil in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.
+I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was stil in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú. I like I like 
