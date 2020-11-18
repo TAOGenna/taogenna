@@ -30,16 +30,16 @@ Anyway, here are my solutions to the problems:<br>
 [Problems Link](https://codeforces.com/blog/entry/63157)<br>
  
 <br>
-- [A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)<br>
-- [Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)<br>
-- [Cheap Trips](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)<br>
-- [Database of Clients](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)<br>
-- [Escape, Polygon!](https://www.urionlinejudge.com.br/judge/es/problems/view/2907)<br>
-- [Fantastic Beasts](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)<br>
-- [Gathering Red-Black Fruits](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)<br>
-- [Highway Decommission](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)<br>
-- [Ink Colors](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)<br>
-- [Jeopardized Election](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)<br>
-- [KryptoLocker Ate my Homework](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)<br>
-- [Looking for the Risk Factor](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)<br>
-- [Mount Marathon](https://www.urionlinejudge.com.br/judge/es/problems/view/2915)<br>
+- [A](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)<br>
+- [B](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)<br>
+- [C](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)<br>
+- [D](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)<br>
+- [E](https://www.urionlinejudge.com.br/judge/es/problems/view/2907)<br>
+- [F](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)<br>
+- [G](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)<br>
+- [H](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)<br>
+- [I](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)<br>
+- [J](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)<br>
+- [K](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)<br>
+- [L](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)<br>
+- [M](https://www.urionlinejudge.com.br/judge/es/problems/view/2915)<br>
