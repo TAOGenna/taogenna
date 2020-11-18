@@ -21,7 +21,6 @@ menu:
 
 
 ... my contesnt. $\int x dx$
-[Presentations with Beamer]({{< ref "/course/beamer.md" >}})
 
 {{% callout note %}}
 Coming soon...
