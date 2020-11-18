@@ -1,3 +1,4 @@
++++
 # Page title
 title: An Example Course
 
@@ -14,4 +15,4 @@ date: 2018-09-09
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 1 +++
