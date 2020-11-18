@@ -12,6 +12,5 @@ title = "asdasdasd"
 
 +++
 
-true asda asdas a $\int$ <br>
+true  a $\int$ <br>
 [My failed attempt]({{< ref "cv/index.md" >}})<br>
-[pls work]({{< ref "cv/index2.md" >}})<br>
