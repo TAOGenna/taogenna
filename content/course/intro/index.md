@@ -18,4 +18,3 @@ type: book
 weight: 1
 ---
 
-... [my content]({{< ref "course/intro/index.md" >}})
