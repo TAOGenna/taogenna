@@ -18,6 +18,6 @@ menu:
     name: ICPC Regionals
     weight: 1
 ---
-## [Learn]({{< ref "/cv/ICPC/prueba1.md" >}})
+## [P1]({{< ref "/cv/ICPC/prueba1.md" >}})
 
-## [Presentations]({{< ref "/cv/ICPC/prueba2.md" >}})
+## [P2]({{< ref "/cv/ICPC/prueba2.md" >}})
