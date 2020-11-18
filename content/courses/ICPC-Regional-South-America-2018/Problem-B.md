@@ -17,8 +17,44 @@ This problem can be approach in many ways, some more complicated than others. Bu
 <details><summary>code</summary>
 
 ```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+#define rep(i, a, b) for(lli i = a; i < (b); ++i)
+typedef long long int lli;
+
+map<lli,lli> m;
+set<lli> s;
 int main(){
-  cout<<"hola perras"<<endl;
+	lli n,total=0; cin>>n;
+	vi v(n+10),sum(n+10);
+	rep(i,1,n+1){
+		cin>>v[i];
+		total+=v[i];
+		sum[i]=v[i]+sum[i-1];
+		m[sum[i]]++;
+	}
+
+	if(total%2!=0){
+		cout<<"N"<<endl;
+		return 0;
+	}
+
+	int cnt=0;
+
+	rep(i,1,n+1){
+		lli num=(sum[i]+total/2)%total;
+		if(!s.count(num) and m[num]){
+			s.insert(num);
+			s.insert(sum[i]);
+			cnt++;
+		}
+	}
+
+	if(cnt>=2) cout<<"Y"<<endl;
+	else cout<<"N"<<endl;
+
+	return 0;
 }
 ```
 </details>
