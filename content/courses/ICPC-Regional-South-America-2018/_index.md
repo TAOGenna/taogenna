@@ -28,7 +28,7 @@ Aside that, I think that the explanation of why the preformance of Peru was so p
 <br>
 Anyway, here are my solutions to the problems:<br>
 <br>
-[Problems Link](https://codeforces.com/blog/entry/63157)<br>
+[Problems Links and Discussion :](https://codeforces.com/blog/entry/63157)<br>
 <br>
 - [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
 - [B — Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
