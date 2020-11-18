@@ -1,21 +1,23 @@
 ---
-# Page title
-title: My try
-
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+# Course title, summary, and position.
 linktitle: try
-
-# Page summary for search engines.
-summary: Blah, blah, blah...
-
-# Date page published
-date: 2018-09-09
-
-# Academic page type (do not modify).
-type: book
-
-# Position of this page in the menu. Remove this option to sort alphabetically.
+summary: try
 weight: 1
+
+# Page metadata.
+title: try
+draft: false  # Is this a draft? true/false
+toc: false  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  latex:
+    name: try
+    weight: 1
 ---
 
-... my contesnt.ssssssssssssssssssss \int
+
+... my contesnt.ssssssssssssssssssss $\int x dx$
