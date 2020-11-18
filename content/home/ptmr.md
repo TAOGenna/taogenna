@@ -13,4 +13,5 @@ title = "asdasdasd"
 +++
 
 true  a $\int$ <br>
-[My failed attempt]({{< ref "cv/index.md" >}})<br>
+[My failed attempt]({{< ref "/content/cv/index.md" >}})<br>
+[zzzzzzz]({{< ref "/content/cv/index2.md" >}})<br>
