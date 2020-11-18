@@ -28,17 +28,18 @@ Aside that, I think that the explanation of why the preformance of Peru was so p
 Anyway, here are my solutions to the problems:<br>
 <br>
 [Problems Link](https://codeforces.com/blog/entry/63157)<br>
+
 <br>
-- [A](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
-- [B](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
-- [C](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)
-- [D](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)
-- [E](https://www.urionlinejudge.com.br/judge/es/problems/view/2907)
-- [F](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)
-- [G](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)
-- [H](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)
-- [I](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)
-- [J](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)
-- [K](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)
-- [L](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)
-- [M](https://www.urionlinejudge.com.br/judge/es/problems/view/2915)
+- [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
+- [B — Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
+- [C — Cheap Trips](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)
+- [D — Database of Clients](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)
+- [E — Escape, Polygon!](https://www.urionlinejudge.com.br/judge/es/problems/view/2907)
+- [F — Fantastic Beasts](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)
+- [G — Gathering Red-Black Fruits](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)
+- [H — Highway Decommission](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)
+- [I — Ink Colors](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)
+- [J — Jeopardized Election](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)
+- [K — KryptoLocker Ate my Homework](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)
+- [L — Looking for the Risk Factor](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)
+- [M — Mount Marathon](https://www.urionlinejudge.com.br/judge/es/problems/view/2915)
