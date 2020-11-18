@@ -18,4 +18,4 @@ type: book
 weight: 1
 ---
 
-... my contesnt
+... my contesnt. {{< list_children >}}
