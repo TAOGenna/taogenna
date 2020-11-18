@@ -19,7 +19,7 @@ First of all let's stablish some notation:
 
 Let $A$,$B$,$C$,$D$ be the points given in counterclockwise order of any existing rectangle incribed in the circunference. We know that $A-C$ and $B-D$, segment formed by opposite corners, are both diameters.<br>
 <br>
-If we are in the $j^{th}$ point and $S=sum[n]=\sum_{i=1}^n arc[i]$, then if that position form a diameter with other point in the circunfernce we say that $\exists \text{ an index } k \text{ such that } sum[k]=sum[i]+\frac{S}{2}$. With this observation what is left is to find two different points that generate a diameter.<br>
+If we are in the $j^{th}$ point and $S=sum[n]=\sum_{i=1}^n arc[i]$, then if that position form a diameter with other point in the circunfernce we say that $\exists \text{ an index } k \text{ such that } sum[k]=(sum[i]+\frac{S}{2})\mod sum[n]$. With this observation what is left is to find two different points that generate a diameter.<br>
 <details><summary>code</summary>
 
 ```cpp
