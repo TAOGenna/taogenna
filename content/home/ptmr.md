@@ -12,5 +12,5 @@ title = "ptmre"
 
 +++
 
-true $\int$ <br>
+ $\int$ <br>
 [tutorials]({{< ref "/tutorials" >}})
