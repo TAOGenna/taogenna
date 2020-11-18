@@ -4,7 +4,7 @@ headless = true
 active = true  
 weight = 100  
 
-title = "funciona la ptmre!"
+title = "func!"
 subtitle = ""
 +++
 
