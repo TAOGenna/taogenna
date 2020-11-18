@@ -8,6 +8,5 @@ title = "func!"
 subtitle = ""
 +++
 
-true $1=2$ <br>
+true $\int$ <br>
 [My failed attempt]({{< ref "cv/index.md" >}})<br>
-[asdasd]({{< ref "cv/index2.md" >}})<br>
