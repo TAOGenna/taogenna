@@ -8,9 +8,9 @@ active = true
 weight = 76
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "ptmre"
+title = "nom"
 
 +++
 
  $\int$ <br>
-[tutorials]({{< ref "/tutorials" >}})
+[courses]({{< ref "/courses" >}})
