@@ -9,4 +9,4 @@ subtitle = ""
 +++
 
  true, men. $1=2$ <br>
-[My failed attempt]({{< ref "cv/entrada1.md" >}})<br>
+[My failed attempt]({{< ref "cv/index.md" >}})<br>
