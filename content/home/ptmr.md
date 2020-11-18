@@ -12,5 +12,4 @@ title = "ptmre"
 
 +++
 
-true dasdasda $\int$ <br>
-[here]({{<ref "course/index.md">}})
+true $\int$ <br>
