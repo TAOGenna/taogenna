@@ -30,7 +30,7 @@ Anyway, here are my solutions to the problems:<br>
 <br>
 [Problems Links and Discussion :](https://codeforces.com/blog/entry/63157)<br>
 <br>
-- [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
+- [x] [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
 - [B — Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
 - [C — Cheap Trips](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)
 - [D — Database of Clients](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)
