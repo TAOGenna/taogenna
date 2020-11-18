@@ -8,5 +8,6 @@ title = "funciona la ptmre!"
 subtitle = ""
 +++
 
- true, men. $1=2$ <br>
+true $1=2$ <br>
 [My failed attempt]({{< ref "cv/index.md" >}})<br>
+[asdasd]({{< ref "cv/index2.md" >}})<br>
