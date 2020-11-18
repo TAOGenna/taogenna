@@ -21,3 +21,8 @@ menu:
 
 
 ... my contesnt.ssssssssssssssssssss $\int x dx$
+## [Presentations with Beamer]({{< ref "/course/beamer.md" >}})
+
+{{% callout note %}}
+Coming soon...
+{{% /callout %}}
