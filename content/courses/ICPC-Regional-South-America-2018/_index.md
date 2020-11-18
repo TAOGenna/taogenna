@@ -28,18 +28,5 @@ Aside that, I think that the explanation of why the preformance of Peru was so p
 Anyway, here are my solutions to the problems:<br>
 <br>
 [Problems Link](https://codeforces.com/blog/entry/63157)<br>
- 
 <br>
-- [A](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)<br>
-- [B](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)<br>
-- [C](https://www.urionlinejudge.com.br/judge/es/problems/view/2905)<br>
-- [D](https://www.urionlinejudge.com.br/judge/es/problems/view/2906)<br>
-- [E](https://www.urionlinejudge.com.br/judge/es/problems/view/2907)<br>
-- [F](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)<br>
-- [G](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)<br>
-- [H](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)<br>
-- [I](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)<br>
-- [J](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)<br>
-- [K](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)<br>
-- [L](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)<br>
-- [M](https://www.urionlinejudge.com.br/judge/es/problems/view/2915)<br>
+- [A](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
