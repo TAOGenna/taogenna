@@ -13,9 +13,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-<DIV align="justify">
-  Lorem ipsum 
-</DIV>
 
 First of all let's stablish some notation:
 - $i^{th}$ arc differece: $v[i]=$ $i^{th}$
