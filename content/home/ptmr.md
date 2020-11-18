@@ -13,4 +13,3 @@ title = "asdasdasd"
 +++
 
 true dasdasda $\int$ <br>
-[My failed attempt]({{< ref "/content/cv/index.md" >}})<br>
