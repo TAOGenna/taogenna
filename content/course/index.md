@@ -18,4 +18,4 @@ type: book
 weight: 1
 ---
 
-... my contesnt.ssssssssssssssssssss {{< list_children >}}
+... my contesnt.ssssssssssssssssssss \int
