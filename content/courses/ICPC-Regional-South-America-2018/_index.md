@@ -30,3 +30,4 @@ Anyway, here are my solutions to the problems:<br>
 [Problems Link](https://codeforces.com/blog/entry/63157)<br>
 <br>
 - [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
+- [B — Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
