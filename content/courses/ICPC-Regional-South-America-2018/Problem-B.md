@@ -13,7 +13,13 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-This problem can be approach in many ways, some more complicated than others. But the easiest way is given by the following observation: Let $A$,$B$,$C$,$D$ be a rectangle incribed in the circunference and be $acum[p]$ the sum acumulation of the arcs till position $p$, this is $acum[p]=\sum_{i=1}^{p} arc[i]$. We know that $A-B$ and $C-D$, segment formed by opposite corners, are both diameters. What I mean by this is that if we are in the position $j$ of the given arcs and $S=\sum_{i=1}^n arc[i]$ then if that position form a diameter with other point in the circunfernce, that point must be in $acum[i]+\frac{S}{2}$. With this observation what is left is to find two different points that generate a diameter.<br>
+First of all let's stablish some notation:
+- $i^{th}$ arc differece: $v[i]=$ $i^{th}$
+- The arc of the $i^{th}$ point: $sum[p]=\sum_{i=1}^m v[i]$
+
+Let $A$,$B$,$C$,$D$ be the points given in counterclockwise order of any existing rectangle incribed in the circunference. We know that $A-C$ and $B-D$, segment formed by opposite corners, are both diameters.<br>
+<br>
+If we are in the $j^{th}$ point and $S=sum[n]=\sum_{i=1}^n arc[i]$, then if that position form a diameter with other point in the circunfernce we say that $\exists \text{an index } k \text{ such that } sum[k]=sum[i]+\frac{S}{2}$. With this observation what is left is to find two different points that generate a diameter.<br>
 <details><summary>code</summary>
 
 ```cpp
