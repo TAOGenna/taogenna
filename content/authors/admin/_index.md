@@ -30,6 +30,11 @@ education:
   - course: BA in Physics
     institution: Pontifical Catholic University of Peru
     year: 2022
+Lenguages:
+- English(proficient)
+- Spanish(native)
+- French(Basic)
+- Japanese(Basic)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
