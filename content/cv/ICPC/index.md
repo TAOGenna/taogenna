@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: ICPC Regionals
+linktitle: ICPC
 summary: ICPC Regionals tutorials.
 weight: 1
 
 # Page metadata.
-title: ICPC Regionals
+title: ICPC 
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -14,8 +14,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  latex:
-    name: ICPC Regionals
+  ICPC:
+    name: ICPC
     weight: 1
 ---
 ## [P1]({{< ref "/cv/ICPC/prueba1.md" >}})
