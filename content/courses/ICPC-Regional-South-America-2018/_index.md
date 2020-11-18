@@ -29,4 +29,4 @@ Anyway, here are my solutions to the problems:<br>
 <br>
 [Problems Link](https://codeforces.com/blog/entry/63157)<br>
 <br>
-- [A](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
+- [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
