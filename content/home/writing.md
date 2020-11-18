@@ -12,4 +12,4 @@ subtitle = ""
 
 +++
 
-Here I would give a try. can find any information  [here]({{<ref "Publi">}}).
+Here I would give a try. can find any information  [here]({{<ref "Publi">}}). And also read some [science]({{<ref "science">}})
