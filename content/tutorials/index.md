@@ -1,5 +1,5 @@
 ---
 title: tutorials
-layout: docs  # Do not modify.
+type: book  # Do not modify.
 ---
 
