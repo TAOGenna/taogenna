@@ -14,10 +14,6 @@ menu:
 weight: 1
 ---
 
-figcaption {
-  text-align: center;
-}
-
 First of all let's stablish some notation:
 - $i^{th}$ arc differece: $v[i]=$ $i^{th}$
 - The arc of the $i^{th}$ point: $sum[p]=\sum_{i=1}^m v[i]$
