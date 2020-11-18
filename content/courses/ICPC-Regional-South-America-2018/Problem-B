@@ -1,13 +1,13 @@
 ---
 title: B-Building a Field
-linktitle: Tips 1-2
+linktitle: B-Building a Field
 toc: true
 type: docs
 date: "2020-18-11T00:00:00+01:00"
 draft: false
 menu:
   ICPC-Regional-South-America-2018:
-    name: B-Building a Field
+    parent: Problems and Solutions
     weight: 3
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
