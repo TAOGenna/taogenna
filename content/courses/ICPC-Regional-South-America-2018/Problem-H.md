@@ -23,6 +23,7 @@ $$
 wyn=\sum_{node=1}^{n}min \{ edges[node] \}
 $$
 Which is the answer we were looking for.
+$\} \{$
 <details><summary>code</summary>
 
 ```cpp
