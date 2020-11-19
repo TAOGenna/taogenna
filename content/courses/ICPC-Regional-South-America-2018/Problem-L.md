@@ -17,6 +17,6 @@ Consider that for each numer $x$ we have saved all the queries which take place 
 <br>
 ...|10||11||12||13||14||15||16||17|| x |...<br>
 
-...|5 ||11||3 ||13||7 ||5 ||2 ||17|| ? |...<br>
+...|5  ||11||3  ||13||7  ||5  ||2  ||17|| ? |...<br>
 <br>
 Once we have reached position $x$ we have to make an update because $k\geq x$. 
