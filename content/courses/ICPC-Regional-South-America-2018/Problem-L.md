@@ -13,11 +13,10 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-Consider that for each numer $x$ we have saved all the queries which take place there(query of the form $(x,k)$). Now since we a re interested in knowing the asnwer for all numbers $\leq x$ it just don't have any sense to be worried about the values $\qeq x$. With that in mind we can update on the way what is the greatest prime number for number/position $x$.
-$$
-...|10||11||12||13||14||15||16||17|| x |...
-$$
-$$
-...|5 ||11||3 ||13||7 ||5 ||2 ||17|| ? |...
-$$
+Consider that for each numer $x$ we have saved all the queries which take place there(query of the form $(x,k)$). Now since we a re interested in knowing the asnwer for all numbers $\leq x$ it just don't have any sense to be worried about the values $\geq x$. With that in mind we can update on the way what is the greatest prime number for number/position $x$.
+<br>
+...|10||11||12||13||14||15||16||17|| x |...<br>
+
+...|5 ||11||3 ||13||7 ||5 ||2 ||17|| ? |...<br>
+<br>
 Once we have reached position $x$ we have to make an update because $k\geq x$. 
