@@ -16,4 +16,4 @@ weight: 1
 The key observation for this problem is that there's an entire region where is impossible to construct a closed triangle.
 
 Let's get more precise about this "region" and how can we find it.
-{{< figure library="true" src="Captura.jpg" title="Little example" >}} 
+{{< figure src="Captura.jpg" title="A caption" >}} 
