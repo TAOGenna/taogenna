@@ -17,7 +17,7 @@ Consider that for each numer $x$ we have saved all the queries which take place 
 
 | Number | Max Prime Divisor |
 |--------|-------------------|
-| 10     | 5                 |
+| 10 | 5 |
 
 Once we have reached position $x$ we have to make an update because $k\geq x$. 
 
