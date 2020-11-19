@@ -30,6 +30,7 @@ $$
 $$
 - The endpoint of the gray line can be calulated by a little trick involving the cross product which basically can tell us if a point is either on the right or on the left side of a line
 {{< figure library="true" src="CrossProd.jpg" title="Interpretation" >}}
+
 So, when do we know we have reached $180°$? When the cross product is no longer $\geq 0$. Repeating this process for all the edges we'll find the answer.
 
 - Let $cnt[i] = $ number of edges between the $i^{th}$ edge and its corresponding endpoint of the gray line<br/>
