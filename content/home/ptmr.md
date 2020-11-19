@@ -8,9 +8,7 @@ active = true
 weight = 76
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "nom"
+title = "ICPC and Physics Problem Solving"
 
 +++
-
- $\int$ <br>
-[courses]({{< ref "/courses" >}})
+[ICPC Regionals Solutions]({{< ref "/courses" >}})
