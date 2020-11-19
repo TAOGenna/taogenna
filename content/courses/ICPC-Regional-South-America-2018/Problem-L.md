@@ -18,6 +18,10 @@ Consider that for each numer $x$ we have saved all the queries which take place 
 | Number | Max Prime Divisor |
 |--------|-------------------|
 | 10 | 5 |
+| 11 | 11|
+|12  | 3 |
+| 13 | 13|
+| 14 | 7 |
 
 Once we have reached position $x$ we have to make an update because $k\geq x$. 
 
