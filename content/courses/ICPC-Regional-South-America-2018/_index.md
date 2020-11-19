@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-This was the first regional in which I took part so been able to solve it now with more knowledge makes it worthy.<br>
+This was the first regional in which I took part so being able to solve it now with more knowledge makes it worthy.<br>
 <br>
 As a whole by now I was just able to solve 8 problems, not bad, but the best team of the region accomplish 10 problems which is a huge amount of problems for the 5 hours.
 Aside that, I think that the explanation of why the preformance of Peru was so poor on the ICPC World Finals is because seven problems of the wholse set were, if not directly, not so difficult. So, it's not surprise that a team going to the WF is going to perform badly if they were just able to solve the easiest problems during contest.<br>
