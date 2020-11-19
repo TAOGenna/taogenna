@@ -32,7 +32,7 @@ So, when do we know we have reached $180°$? When the cross product is no longer
 - Let $cnt[i] = $ number of edges between the $i^{th}$ edge and its corresponding endpoint of the gray line
 Then:
 $$
-Answer = \binom(n,3)-\sum_{i=1}^n\binom(cnt[i],2)
+Answer = {n\choose 3}-\sum_{i=1}^n{cnt[i]\choose 2}
 $$
 <details><summary>code</summary>
 
