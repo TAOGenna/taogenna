@@ -24,7 +24,10 @@ Now, when do we know we have reached the other side of the gray segment? Conside
 
 Said that, we can see that we can compute the result by complement. This is, calculating the "bad ones" that doesn't contrubute nothing to the result and then taking the difference with the number of all possible triplets.
 
-- The total number of triplets is just ${n\choose 3} = \frac{(n)(n-1)(n-3)}{6}$
+- The total number of triplets is just
+$$
+{n\choose 3} = \frac{(n)(n-1)(n-3)}{6}
+$$
 - The endpoint of the gray line can be calulated by a little trick involving the cross product which basically can tell us if a point is either on the right or on the left side of a line
 {{< figure library="true" src="CrossProd.jpg" title="Interpretation" >}}
 So, when do we know we have reached $180°$? When the cross product is no longer $\geq 0$. Repeating this process for all the edges we'll find the answer.
