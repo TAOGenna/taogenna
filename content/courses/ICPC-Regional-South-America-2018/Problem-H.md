@@ -15,12 +15,12 @@ weight: 1
 ---
 The problem can be solved with a little modification of the Dijkstra Algorithm in order to consider the minimun among all possibe paths leading to a shortest path.
 Each time that we have to update a path to make the distance shorter we also have to build a new set of *cost values* for all paths arriving at that node with same shortest path distance.
-- Let's call 
+Let's call 
 $$edges[node]=\text{set of costs arriving with the same shortest path value at node}$$
 
 So now all we have to compute is:
 $$
-wyn=\sum_{node=1}^{n}min\{edges[node]\}
+wyn=\sum_{node=1}^{n}min \{ edges[node] \}
 $$
 Which is the answer we were looking for.
 <details><summary>code</summary>
