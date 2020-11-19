@@ -8,7 +8,7 @@ draft: false
 menu:
   ICPC-Regional-South-America-2018:
     parent: Problems and Solution
-    weight: 13
+    weight: 15
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
