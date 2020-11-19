@@ -19,15 +19,8 @@ Consider that for each numer $x$ we have saved all the queries which take place 
 
 ...|5  ||11||3  ||13||7  ||5  ||2  ||17|| ? |...<br>
 <br>
-$$
-\begin{center}
-\begin{tabular}{ |c|c|c| } 
- \hline
- cell1 & cell2 & cell3 \\ 
- cell4 & cell5 & cell6 \\ 
- \hline
-\end{tabular}
-\end{center}
-$$
+|  10  |      |      |      |      |      |      |      |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|      |      |      |      |      |      |      |      |
 Once we have reached position $x$ we have to make an update because $k\geq x$. 
 
