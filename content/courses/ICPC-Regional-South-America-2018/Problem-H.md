@@ -20,10 +20,9 @@ $$edges[node]=\text{set of costs arriving with the same shortest path value at n
 
 So now all we have to compute is:
 $$
-wyn=\sum_{node=1}^{n}min \{ edges[node] \}
+wyn=\sum_{node=1}^{n}min[ edges[node]]
 $$
 Which is the answer we were looking for.
-$\{ x+y \}$
 <details><summary>code</summary>
 
 ```cpp
