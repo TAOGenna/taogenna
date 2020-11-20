@@ -13,8 +13,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-The problem can be solved greadily if we assume that if completing our stick man going all the way from the bottom part of the tree to the upper one, we can achieve the largest number of stick man. Now,
-the thing to solve the problem is not to explicitly draw the stick man in our tree if we find one, instead we play with the degree of each node.
+The problem can be solved with a greedy approach. It reaches the maximun amount they ask for ifwe assume that by filling our tree with "stick men" from the bottom of the tree to the root. Now to keep things simple, the idea to solve the problem is not to explicitly draw the stick man in our tree if we find one, but rather to play with the degree of each node. Since we go from the leaves to the root, we only have to worry about the node that acts as the head of the stick man decreasing its degree by one if we find a stick man made with it.
 Notice the following:
 - the chest of the stick man is made up of two nodes, the top node has three edges and the bottom node has two edges. This is:
 ```cpp
