@@ -23,12 +23,12 @@ menu:
 
 This was the first regional in which I took part so being able to solve it now with more knowledge makes it worthy.<br>
 <br>
-As a whole by now I was just able to solve 8 problems, not bad, but the best team of the region accomplish 10 problems which is a huge amount of problems for the 5 hours.
+As a whole by now I was just able to solve 9 problems, not bad, but the best team of the region accomplish 10 problems which is a huge amount of problems for the 5 hours.
 Aside that, I think that the explanation of why the preformance of Peru was so poor on the ICPC World Finals is because seven problems of the wholse set were, if not directly, not so difficult. So, it's not surprise that a team going to the WF is going to perform badly if they were just able to solve the easiest problems during contest.<br>
 <br>
-Anyway, here are my solutions to the problems:<br>
+Anyway, on the menu you fan find my solutions to the problems:<br>
 <br>
-[Problems Links and Discussion :](https://codeforces.com/blog/entry/63157)<br>
+[Problems Judge Links and Discussion :](https://codeforces.com/blog/entry/63157)<br>
 <br>
 - [X] [A — A Symmetrical Pizza](https://www.urionlinejudge.com.br/judge/es/problems/view/2903)
 - [X] [B — Building a Field](https://www.urionlinejudge.com.br/judge/es/problems/view/2904)
@@ -38,7 +38,7 @@ Anyway, here are my solutions to the problems:<br>
 - [ ] [F — Fantastic Beasts](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)
 - [ ] [G — Gathering Red-Black Fruits](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)
 - [X] [H — Highway Decommission](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)
-- [ ] [I — Ink Colors](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)
+- [X] [I — Ink Colors](https://www.urionlinejudge.com.br/judge/es/problems/view/2911)
 - [ ] [J — Jeopardized Election](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)
 - [ ] [K — KryptoLocker Ate my Homework](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)
 - [X] [L — Looking for the Risk Factor](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)
