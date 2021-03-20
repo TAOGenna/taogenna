@@ -16,8 +16,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
-    name: Solutions
+  AtCoder-Begginer-Contest-194:
+    name: AtCoder Begginer Contest 194
     weight: 1
 ---
 Hola amiguitos
