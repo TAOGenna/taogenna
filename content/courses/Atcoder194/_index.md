@@ -213,9 +213,9 @@ int main(){
 ## [pD: Journey](https://atcoder.jp/contests/abc194/tasks/abc194_d)
 The equation to solve in expected values is:
 $$
-E[Xn]=\frac{N-(n-1)}{N}E[X{n-1}+1] + \frac{n-1}{N}E[X_n+1]
+E[X_n]=\frac{N-(n-1)}{N}E[X_{n-1}+1] + \frac{n-1}{N}E[X_n+1]
 $$
-The reasoning behind the expression is as follows.(1) the first term correspond to the case in which in an operation we choose an unexplorared node.(2) the second term corresponds to the case in which we choose an already visited node, so we must try again.
+The reasoning behind the expression is as follows.(1) the first term correspond to the case in which in an operation we choose an unexplorared node.(2) the second term corresponds to the case in which we choose an already visited node, so we must try again. In both cases we must make an operation, that is why the $+1$.
 <details><summary>code</summary>
 
 ```cpp
