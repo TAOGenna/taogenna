@@ -23,7 +23,6 @@ menu:
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
 ## pA: I Scream
-asdsndasjd kjabsd kjab kbjad kjbkdaj kjbd kaj kj kjb kjab kaj kjbakj bkjb kaj kbuqwudabsk bdiqu badj sjkdbk ajbd a
 <details><summary>code</summary>
 
 ```cpp
@@ -211,7 +210,12 @@ int main(){
 ```
 </details>
 
-## pD: Journey<br>
+## pD: Journey
+The equation to solve in expected values is:
+$$
+E[Xn]=\frac{N-(n-1)}{N}E[X{n-1}+1] + \frac{n-1}{N}E[X_n+1]
+$$
+The reasoning behind the expression is as follows.(1) the first term correspond to the case in which in an operation we choose an unexplorared node.(2) the second term corresponds to the case in which we choose an already visited node, so we must try again.
 <details><summary>code</summary>
 
 ```cpp
@@ -267,7 +271,8 @@ int main(){
 ```
 </details>
 
-## pE: Mex Min<br>
+## pE: Mex Min
+The problem can be easily solved by using a segment tree like update approach plus sliding window. The window will be of lenght $M$ and it will be running from left to right always making an update on the endpoints. If a value is no longer present we update the segment tree and check what is current $MEX$. On the other hand if a value is now present the segment tree is now updated such that it is no longer considered. 
 <details><summary>code</summary>
 
 ```cpp
