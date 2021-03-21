@@ -1,7 +1,7 @@
 ---
 title: "AtCoder Beginner Contest 194"  # Add a page title.
 summary: "March 20, 2021"  # Add a page description.
-date: "2019-01-01T00:00:00Z"  # Add today's date.
+date: "2021-03-20T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
