@@ -29,6 +29,7 @@ Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194)
 ```cpp
 cout<<"hola mundo"<<endl;
 ```
-</details>
+</details><br>
+<br>
 ## pB
 ## pC
