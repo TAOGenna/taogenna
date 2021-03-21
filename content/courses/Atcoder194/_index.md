@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: AtCoder Begginer Contest 194
+linktitle: AtCoder Beginner Contest 194
 summary: March 20, 2021
 weight: 1
 
@@ -16,11 +16,11 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  AtCoder-Begginer-Contest-194:
+  AtCoder-Beginner-Contest-194:
     name: Solutions
     weight: 1
 ---
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
-## pA <br>
-
+# pA <br>
+das ajsndajnsd kajsnd $O(N^x)$
