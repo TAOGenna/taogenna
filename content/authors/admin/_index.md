@@ -15,7 +15,7 @@ role: Physics undergraduate student
 # Organizations/Affiliations
 organizations:
 - name: Pontifical Catholic University of Peru
-  url: "https://www.pucp.edu.pe/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -50,9 +50,9 @@ social:
   link: https://github.com/TAOGenna
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/Renzo_R_sum.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/Renzo_R_sum_(1).pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/Renzo_R_sum_(1).pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
