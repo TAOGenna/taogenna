@@ -20,4 +20,7 @@ menu:
     name: Solutions
     weight: 1
 ---
-Hola amiguitos
+Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
+
+## pA <br>
+
