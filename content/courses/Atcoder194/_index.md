@@ -23,6 +23,7 @@ menu:
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
 ## pA
+<br>
 <details><summary>code</summary>
 
 ```cpp
