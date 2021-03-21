@@ -12,4 +12,4 @@ subtitle = ""
 
 +++
 
-Here I would give a try. can find any information  [here]({{<ref "Publi">}}). And also read some [science]({{<ref "science">}})
+Here I would give a try. can find any information  [here]({{<ref "Publi">}}). And also read some [science]({{<ref "science">}}). And here I decided to post regularly on my advanced of my [bachellor thesis]({{<ref "BachThesis">}}) which is in entanglement entropy and holography. Ironically I didn't even know about quantum field theory when I got into the topic so you can imagine how lost I was
