@@ -22,7 +22,7 @@ menu:
 ---
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
-## pA: I Scream
+## [pA: I Scream](https://atcoder.jp/contests/abc194/tasks/abc194_a)
 <details><summary>code</summary>
 
 ```cpp
@@ -78,7 +78,7 @@ int main(){
 ```
 </details>
 
-## pB: Job Assignment<br>
+## [pB: Job Assignment](https://atcoder.jp/contests/abc194/tasks/abc194_b)
 <details><summary>code</summary>
 
 ```cpp
@@ -144,7 +144,7 @@ int main(){
 ```
 </details>
 
-## pC: Squared Error<br>
+## [pC: Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c)
 <details><summary>code</summary>
 
 ```cpp
@@ -210,7 +210,7 @@ int main(){
 ```
 </details>
 
-## pD: Journey
+## [pD: Journey](https://atcoder.jp/contests/abc194/tasks/abc194_d)
 The equation to solve in expected values is:
 $$
 E[Xn]=\frac{N-(n-1)}{N}E[X{n-1}+1] + \frac{n-1}{N}E[X_n+1]
@@ -271,7 +271,7 @@ int main(){
 ```
 </details>
 
-## pE: Mex Min
+## [pE: Mex Min](https://atcoder.jp/contests/abc194/tasks/abc194_e)
 The problem can be easily solved by using a segment tree like update approach plus sliding window. The window will be of lenght $M$ and it will be running from left to right always making an update on the endpoints. If a value is no longer present we update the segment tree and check what is current $MEX$. On the other hand if a value is now present the segment tree is now updated such that it is no longer considered. 
 <details><summary>code</summary>
 
@@ -360,7 +360,7 @@ int main(){
 ```
 </details>
 
-## pF: Digits Paradise in Hexadecimal<br>
+## [pF: Digits Paradise in Hexadecimal](https://atcoder.jp/contests/abc194/tasks/abc194_f)
 <details><summary>code</summary>
 
 ```cpp
