@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   AtCoder-Begginer-Contest-194:
-    name: AtCoder Begginer Contest 194
+    name: Solutions
     weight: 1
 ---
 Hola amiguitos
