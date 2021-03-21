@@ -15,14 +15,14 @@ role: Physics undergraduate student
 # Organizations/Affiliations
 organizations:
 - name: Pontifical Catholic University of Peru
-  url: ""
+  url: "https://www.pucp.edu.pe/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- High Energy Physics 
-- Theoretical Planetary Science
+- Quantum Gravity 
+- Information Theory and Holography
 - Competitive Programming
 
 education:
@@ -50,9 +50,9 @@ social:
   link: https://github.com/TAOGenna
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/Renzo_R_sum.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Renzo_R_sum_(1).pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,6 +63,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a undergrad student interested in particle phenomenology, theoretical physics and competitive programming. Currently, I'm a year away from finishing the universoty at PUCP.
+I'm a undergraduate student interested in information theory,entanglement entropy, holography and competitive programming. Currently, I'm a year away from finishing my undergrad studies at PUCP.
 
-I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was stil in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.
+I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was still in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and also I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.
