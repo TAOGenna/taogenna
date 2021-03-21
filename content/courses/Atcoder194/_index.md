@@ -24,4 +24,4 @@ Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194)
 
 # Introduction<br>
 ## Terms & Two properties<br>
-First, a $xD/yD$-DP means that the there are $O(N^x) subproblems and each subprobles rely on $O(N^y)$ subproblems to calculate.
+First, a $xD/yD$ -DP means that the there are $O(N^x)$ subproblems and each subprobles rely on $O(N^y)$ subproblems to calculate.
