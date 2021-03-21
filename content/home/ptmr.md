@@ -11,4 +11,4 @@ weight = 76
 title = "Informatic Competitions"
 
 +++
-[ICPC Regionals Solutions]({{< ref "/courses" >}})
+During almost all my undergraduate studies I was part of the ICPC PUCP GROUP with the goal of promote and develop the spirit of competitive programming at my univerity among all students. The main competition for us was the [ICPC](https://icpc.global/), and the goal of every team was to get a stop at the [ICPC World Finals](https://icpc.global/worldfinals/worldfinals). Along the way there were other competitions such as [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam), [Facebook HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup/), [IEEExtreme](https://ieeextreme.org/) and a bunch of weekly contest on [Codeforces](https://codeforces.com/) and [Atcoder](https://atcoder.jp/). [Here I will share]({{< ref "/courses" >}}) some of my solutions as well as some tutorials in some topics I liked. 
