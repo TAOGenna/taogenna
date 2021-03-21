@@ -22,6 +22,12 @@ menu:
 ---
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
-## hola
-## amiguitos
-## neci
+## pA
+<details><summary>code</summary>
+
+```cpp
+cout<<"hola mundo"<<endl;
+```
+</details>
+## pB
+## pC
