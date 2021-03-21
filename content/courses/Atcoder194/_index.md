@@ -23,11 +23,14 @@ menu:
 Contest Link: [AtCoder Beginner Contest 194](https://atcoder.jp/contests/abc194) <br>
 
 ## pA
+
 <details><summary>code</summary>
 
 ```cpp
 cout<<"hola"<<endl;
 ```
 </details>
+
 ## pB
+
 ## pC
