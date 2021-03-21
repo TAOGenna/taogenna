@@ -7,3 +7,4 @@ header:
   caption: ""
   image: ""
 ---
+{{< figure library="true" src="GetImage.jpeg" title="ICPC PUCP Group 2018" >}} 
