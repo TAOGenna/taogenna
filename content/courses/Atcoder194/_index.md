@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: AtCoder Begginer Contest 194
-summary:
+summary: March 20, 2021
 weight: 1
 
 # Page metadata.
