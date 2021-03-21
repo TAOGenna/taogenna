@@ -11,5 +11,5 @@ title = "Writing"
 subtitle = ""
 
 +++
-
-Here I would give a try. can find any information  [here]({{<ref "Publi">}}). And also read some [science]({{<ref "science">}}). And here I decided to post regularly on my advanced of my [bachellor thesis]({{<ref "BachThesis">}}) which is in entanglement entropy and holography. Ironically I didn't even know about quantum field theory when I got into the topic so you can imagine how lost I was
+I like to read longform articles, and maintain lists of memorable ones about [science]({{<ref "science">}}) and everything else. Also, I decided to post regularly on my advanced of my [bachellor thesis]({{<ref "BachThesis">}}) which is in entanglement entropy and holography.
+<li><a href="https://rootsofprogress.org/industrial-literacy" target="_blank">Industrial Literacy</a></li>
