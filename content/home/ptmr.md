@@ -12,3 +12,4 @@ title = "Informatic Competitions"
 
 +++
 [ICPC Regionals Solutions]({{< ref "/courses" >}})
+{{< figure library="true" src="GetImage.jpeg" title="ICPC PUCP Group" >}} 
