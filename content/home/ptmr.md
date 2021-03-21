@@ -8,7 +8,7 @@ active = true
 weight = 76
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "ICPC and Physics Problem Solving"
+title = "Informatic Competitions"
 
 +++
 [ICPC Regionals Solutions]({{< ref "/courses" >}})
