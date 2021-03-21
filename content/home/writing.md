@@ -11,5 +11,5 @@ title = "Writing"
 subtitle = ""
 
 +++
-I like to read longform articles, and maintain lists of memorable ones about [science]({{<ref "science">}}) and everything else. Also, I decided to post regularly on my advanced of my [bachellor thesis]({{<ref "BachThesis">}}) which is in entanglement entropy and holography.
+I like to read longform articles, and maintain lists of memorable ones about [science]({{<ref "science">}}) and [everything else]({{<ref "VariousArticles">}}). Also, I decided to post regularly on my advanced of my [bachellor thesis]({{<ref "BachThesis">}}) which is in entanglement entropy and holography.
 <li><a href="https://rootsofprogress.org/industrial-literacy" target="_blank">Industrial Literacy</a></li>
