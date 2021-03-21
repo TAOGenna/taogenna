@@ -77,6 +77,7 @@ int main(){
 
 ```
 </details>
+<br>
 ## pB: Job Assignment<br>
 <details><summary>code</summary>
 
@@ -142,6 +143,7 @@ int main(){
 
 ```
 </details>
+<br>
 ## pC: Squared Error<br>
 <details><summary>code</summary>
 
@@ -207,6 +209,7 @@ int main(){
 
 ```
 </details>
+<br>
 ## pD: Journey<br>
 <details><summary>code</summary>
 
@@ -262,6 +265,7 @@ int main(){
 
 ```
 </details>
+<br>
 ## pE: Mex Min<br>
 <details><summary>code</summary>
 
@@ -349,6 +353,7 @@ int main(){
 
 ```
 </details>
+<br>
 ## pF: Digits Paradise in Hexadecimal<br>
 <details><summary>code</summary>
 
