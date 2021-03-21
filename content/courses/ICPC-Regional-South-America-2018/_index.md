@@ -270,7 +270,19 @@ int main(){
 </details>
 
 ## [F — Fantastic Beasts](https://www.urionlinejudge.com.br/judge/es/problems/view/2908)
+<details><summary>code</summary>
+
+```cpp
+```
+</details>
+
 ## [G — Gathering Red-Black Fruits](https://www.urionlinejudge.com.br/judge/es/problems/view/2909)
+<details><summary>code</summary>
+
+```cpp
+```
+</details>
+
 ## [H — Highway Decommission](https://www.urionlinejudge.com.br/judge/es/problems/view/2910)
 The problem can be solved with a little modification of the Dijkstra Algorithm in order to consider the minimun among all possibe paths leading to a shortest path.
 Each time that we have to update a path to make the distance shorter we also have to build a new set of *cost values* for all paths arriving at that node with same shortest path distance.
@@ -404,7 +416,19 @@ int main(){
 </details>
 
 ## [J — Jeopardized Election](https://www.urionlinejudge.com.br/judge/es/problems/view/2912)
+<details><summary>code</summary>
+
+```cpp
+```
+</details>
+
 ## [K — KryptoLocker Ate my Homework](https://www.urionlinejudge.com.br/judge/es/problems/view/2913)
+<details><summary>code</summary>
+
+```cpp
+```
+</details>
+
 ## [L — Looking for the Risk Factor](https://www.urionlinejudge.com.br/judge/es/problems/view/2914)
 Consider that for each numer $x$ we have saved all the queries which take place there(query of the form $(x,k)$). Now since we a re interested in knowing the asnwer for all numbers $\leq x$ it just don't have any sense to be worried about the values $\geq x$. With that in mind we can update on the way what is the greatest prime divisor for number/position $x$.
 
