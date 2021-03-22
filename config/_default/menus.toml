@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "static/files/Renzo_R_sum_(1).pdf"
+   url = "/static/files/Renzo_R_sum_(1).pdf"
    weight = 80
