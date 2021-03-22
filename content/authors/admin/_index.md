@@ -65,4 +65,5 @@ user_groups:
 ---
 I'm a undergraduate student interested in information theory,entanglement entropy, holography and competitive programming. Currently, I'm a year away from finishing my undergrad studies at PUCP.
 
-I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was still in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and also I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.
+I get started in Physics watching the famous Cosmos series conducted by Neil deGrasse Tyson while I was still in highschool. After two years studying electronic engineering I switched into Physics to pursue that kid's goal to be a scientist and push the frontiers of knowledge, and also I hope to be part of that collective effort and also contributing to the ICPC/IOI comunnity in Perú.<br>
+*This website serves as a repository for my research and personal projects*
